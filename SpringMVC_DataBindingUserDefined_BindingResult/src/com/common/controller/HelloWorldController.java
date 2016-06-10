@@ -19,7 +19,6 @@ public class HelloWorldController{
 	public ModelAndView admissionForm(){
  
 		ModelAndView model = new ModelAndView("AdmissionForm");
-		//		model.addObject("msg", "Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare \n");
 		return model;
 	}
 	
