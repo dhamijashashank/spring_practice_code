@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=postgres\r\nsonar.jdbc.username\=postgres\r\nsonar.jdbc.url\=jdbc\:postgresql\://172.23.73.135/sonar\r\nsonar.jdbc.driver\=org.postgresql.Driver\r\nsonar.host.url\=http\://172.23.73.68\:9002/sonar
+projectKey=com.cyient.dbFrontEndApi\:dbFrontEndApi
+serverUrl=http\://localhost\:9000
+version=2
