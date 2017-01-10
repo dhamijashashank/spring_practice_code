@@ -1,0 +1,8 @@
+Steps to run this code 
+
+1. No need to add any Server like Tomcat etc.
+2. Server (Tomcat) plugin is present in pom.xml file
+3. we need maven commnad to run this code and i.e  "clean install tomcat7:run" 
+4. in pom.xml we define plugin for tomcat 7 i.e we use tomcat7:run in maven commnad.
+5. Update Java Version in pom.xml file ( Java version of system and Java Version in pom should be same to run the code).
+ 
